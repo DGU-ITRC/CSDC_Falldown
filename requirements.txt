@@ -1,0 +1,4 @@
+fastapi
+starlette
+uvicorn
+python-multipart==0.0.12
